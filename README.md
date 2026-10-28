@@ -1,0 +1,1 @@
+This project is a case experiment for COMSOL. The simulation content involves the characteristic frequencies and frequency response characteristics of piezoelectric devices under a simple cylindrical model. It also includes the study of a COMSOL file that can be run and partial results.
